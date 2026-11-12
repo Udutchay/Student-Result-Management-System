@@ -1,0 +1,18 @@
+[
+    {
+        "student_id": "Udutchay",
+        "full_name": "Udutchay olcuhi",
+        "class_form": "300l",
+        "gender": "female",
+        "dob": "2008-07-03",
+        "scores": {}
+    },
+    {
+        "student_id": "C:\\Users\\Lulu\\AppData\\Local\\Programs\\Python\\Python314\\python.exe \"c:/Users/Lulu/PY 301/main.py\"",
+        "full_name": "oluchi",
+        "class_form": "200lvl",
+        "gender": "female",
+        "dob": "2122-22-2",
+        "scores": {}
+    }
+]
